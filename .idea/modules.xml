@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter 02 - Everything is an Object/Chapter 02 - Everything is an Object.iml" filepath="$PROJECT_DIR$/Chapter 02 - Everything is an Object/Chapter 02 - Everything is an Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 03 - Operators/Chapter 03 - Operators.iml" filepath="$PROJECT_DIR$/Chapter 03 - Operators/Chapter 03 - Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 04 - Controlling Execution/Chapter 04 - Controlling Execution.iml" filepath="$PROJECT_DIR$/Chapter 04 - Controlling Execution/Chapter 04 - Controlling Execution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 05 - Initialization and Cleanup/Chapter 05 - Initialization and Cleanup.iml" filepath="$PROJECT_DIR$/Chapter 05 - Initialization and Cleanup/Chapter 05 - Initialization and Cleanup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 06 - Access Control/Chapter 06 - Access Control.iml" filepath="$PROJECT_DIR$/Chapter 06 - Access Control/Chapter 06 - Access Control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 07 - Reusing Classes/Chapter 07 - Reusing Classes.iml" filepath="$PROJECT_DIR$/Chapter 07 - Reusing Classes/Chapter 07 - Reusing Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 09 - Interfaces/Chapter 09 - Interfaces.iml" filepath="$PROJECT_DIR$/Chapter 09 - Interfaces/Chapter 09 - Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 10 - Inner Classes/Chapter 10 - Inner Classes.iml" filepath="$PROJECT_DIR$/Chapter 10 - Inner Classes/Chapter 10 - Inner Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 12 - Error Handling with Exceptions/Chapter 12 - Error Handling with Exceptions.iml" filepath="$PROJECT_DIR$/Chapter 12 - Error Handling with Exceptions/Chapter 12 - Error Handling with Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 13 - Strings/Chapter 13 - Strings.iml" filepath="$PROJECT_DIR$/Chapter 13 - Strings/Chapter 13 - Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 14 - Type Information/Chapter 14 - Type Information.iml" filepath="$PROJECT_DIR$/Chapter 14 - Type Information/Chapter 14 - Type Information.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 15 - Generics/Chapter 15 - Generics.iml" filepath="$PROJECT_DIR$/Chapter 15 - Generics/Chapter 15 - Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 16 - Arrays/Chapter 16 - Arrays.iml" filepath="$PROJECT_DIR$/Chapter 16 - Arrays/Chapter 16 - Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 17 - Containers/Chapter 17 - Containers.iml" filepath="$PROJECT_DIR$/Chapter 17 - Containers/Chapter 17 - Containers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 18 - IO/Chapter 18 - IO.iml" filepath="$PROJECT_DIR$/Chapter 18 - IO/Chapter 18 - IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 19 - Enumerated Types/Chapter 19 - Enumerated Types.iml" filepath="$PROJECT_DIR$/Chapter 19 - Enumerated Types/Chapter 19 - Enumerated Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 20 - Annotations/Chapter 20 - Annotations.iml" filepath="$PROJECT_DIR$/Chapter 20 - Annotations/Chapter 20 - Annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 21 - Concurrency/Chapter 21 - Concurrency.iml" filepath="$PROJECT_DIR$/Chapter 21 - Concurrency/Chapter 21 - Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 22 - Graphical User Interfaces/Chapter 22 - Graphical User Interfaces.iml" filepath="$PROJECT_DIR$/Chapter 22 - Graphical User Interfaces/Chapter 22 - Graphical User Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 02 - Everything is an Object/Exercise 12/Exercise 12.iml" filepath="$PROJECT_DIR$/Chapter 02 - Everything is an Object/Exercise 12/Exercise 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 02 - Everything is an Object/Exercise 16/Exercise 16.iml" filepath="$PROJECT_DIR$/Chapter 02 - Everything is an Object/Exercise 16/Exercise 16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 10 - Inner Classes/Exercise 19/Exercise 19.iml" filepath="$PROJECT_DIR$/Chapter 10 - Inner Classes/Exercise 19/Exercise 19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 18 - IO/Exercise 25/Exercise 25.iml" filepath="$PROJECT_DIR$/Chapter 18 - IO/Exercise 25/Exercise 25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 18 - IO/Exercise 28/Exercise 28.iml" filepath="$PROJECT_DIR$/Chapter 18 - IO/Exercise 28/Exercise 28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thinking-in-Java-HomeWork.iml" filepath="$PROJECT_DIR$/Thinking-in-Java-HomeWork.iml" />
+    </modules>
+  </component>
+</project>
